@@ -1,4 +1,4 @@
-import { Home } from '@/screens/home';
+import { Home } from '@/screens';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
 const router = createBrowserRouter([

@@ -1,4 +1,4 @@
-import { AppProvider } from '@/providers/AppProvider';
+import { AppProvider } from '@/providers';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { Router } from './router';
